@@ -1,0 +1,6 @@
+com\unicauca\pay\crudproducts\common\interfaces\iPayPlugin.class
+com\unicauca\pay\crudproducts\common\Delivery.class
+com\unicauca\pay\crudproducts\common\interfaces\IPublisherPlugin.class
+com\unicauca\pay\crudproducts\common\interfaces\IDeliveryPlugin.class
+com\unicauca\pay\crudproducts\common\ProductDelivery.class
+com\unicauca\pay\crudproducts\common\PayCrudProducts.class

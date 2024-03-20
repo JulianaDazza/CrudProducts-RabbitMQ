@@ -1,0 +1,6 @@
+com\unicauca\pay\crudproducts\core\PayCore.class
+com\unicauca\pay\crudproducts\manager\PluginManager.class
+com\unicauca\pay\crudproducts\business\PayService.class
+com\unicauca\pay\crudproducts\business\ProductServiceDelivery.class
+com\unicauca\pay\crudproducts\manager\PayManager.class
+com\unicauca\pay\crudproducts\business\DeliveryService.class
